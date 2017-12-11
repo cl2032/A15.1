@@ -5,14 +5,46 @@ public class IrregularPolygon{
    private ArrayList <Point2D.Double> myPolygon;
 
    // constructors
-   public IrregularPolygon() { }
+   public IrregularPolygon() 
+   {
+    Point2D.Double(double x, double y)
+    
+    
+    
+    
+    }
 
    // public methods
-   public void add(Point2D.Double aPoint) { }
+   public void add(Point2D.Double aPoint) 
+   {
+    
+    
+    
+    
+    }
 
-   public void draw() { }
+   public void draw() 
+   {
+    
+    
+    
+    
+    }
 
-   public double perimeter() { }
+   public double perimeter() 
+   {
+    
+    
+    
+    
+    }
 
-   public double area() { }
+   public double area() 
+   { 
+    
+    
+    
+    
+    }
+   
 }
