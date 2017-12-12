@@ -123,6 +123,12 @@ public class IrregularPolygon{
         return Math.abs(sum1-sum2) / 2.0 ;
 
     }
+    
+    public String getName()
+    {
+        return "Christopher Leung";
+    }
+    
     public static void main(String args[])
     {
         IrregularPolygon obj1 = new IrregularPolygon();
